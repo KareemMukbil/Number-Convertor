@@ -13,4 +13,4 @@ I've made tons of projects before, but those were mostly made for learning. This
 
 **What Comes After?**\
 \
-The result will then appear in the requested base. If you ever need to see the other conversions; just click on *Show Other Conversions*
+The result will then appear in the requested base. If you ever need to see the other conversions; just click on *Show Other Conversions*. And *Restart* to input a new conversion.
