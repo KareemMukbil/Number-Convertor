@@ -1,5 +1,5 @@
 # Number-Convertor
-This is my first public GitHub project. It's not much, but I'm still learning. It supports base 2,10, and 16 conversions
+This is my first public GitHub project. It's not much, but I'm still learning. It supports base 2, 10, and 16 conversions
 # How I Made It:
 **What I used:** It's written using the IntelliJ IDE, programmed in Java. Also used JavaFX
 # Reflection
