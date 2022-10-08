@@ -22,20 +22,20 @@ public class Main extends Application{
     public void start(Stage stage){
         GridPane layout = new GridPane();
 
-        Label convertFrom = new Label("Convert from: (decimal, hexadecimal or binary)");
+        Label convertFrom = new Label("Convert From: (decimal, hexadecimal or binary)");
         TextField convertFromText = new TextField();
 
-        Label convertTo = new Label("Convert to: (decimal, hexadecimal or binary)");
+        Label convertTo = new Label("Convert To: (decimal, hexadecimal or binary)");
         TextField convertToText = new TextField();
 
-        Label number = new Label("Your number: ");
+        Label number = new Label("Your Number: ");
         TextField numberText = new TextField();
 
         Label answer = new Label();
         Label theOptions = new Label();
         Button erase = new Button("Erase");
-        Button otherOptions = new Button("Show other conversions");
-        Button hideOtherOptions = new Button("Hide other conversions");
+        Button otherOptions = new Button("Show Other Conversions");
+        Button hideOtherOptions = new Button("Hide Other Conversions");
         Button restart = new Button("Restart");
         Button start = new Button("Convert");
 
